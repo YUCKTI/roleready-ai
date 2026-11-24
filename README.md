@@ -13,7 +13,6 @@
 ## 🎥 Demo
 - Demo video: _Coming soon_
 - Live app:https://frontend-orpin-kappa-92.vercel.app
-- Backend API: https://roleready-ai-l9rk.onrender.com
 
 ## 📸 Screenshots
 | Login & Auth | Workspace & Views |
